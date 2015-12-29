@@ -22,7 +22,7 @@ This theme is tested on the following installations:
 * Debian Jessie (GNOME 3.14): ✔ - thoroughly tested
 * Ubuntu 12.04 LTS (GNOME 3.4): ✔ - some testing
 * Ubuntu 15.10 (GNOME 3.16): ✔ - some testing
-* XFCE: χ - previously tested by the original author.
+* XFCE: x - previously tested by the original author.
 
 If you find any bugs, you may file an issue through Github.
 
