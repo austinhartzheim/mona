@@ -3,7 +3,7 @@ This theme is a modification of the Mona 3.0 theme by Vasile Onofrei.
 You can find the original theme [here](https://gnome-look.org/content/show.php/Mona+-+Dark+and+blue+GTK+theme?content=168447).
 
 ## Installing
-You can install by cloning this repository or extracting one of the [downloads](https://github.com/austinhartzheim/mona/releases) in either `~/.themes/` for a local install or `/usr/share/themes/` for a global install.
+You can install this theme by cloning this repository or extracting this [download](https://github.com/austinhartzheim/mona/archive/master.zip) in either `~/.themes/` for a local install or `/usr/share/themes/` for a global install.
 
 For example, this should create a local install:
 ```
